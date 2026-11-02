@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.lupercasapartamentosturisticos.es/",
+ "read_at": "2026-11-02T07:12:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/",
+   "sha256": "e5446c4fbe4f09af63732e0e7b396e7b5b452dc3792164e765e450af74f03295",
+   "chars": 6327
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/apartamento-anna/",
+   "sha256": "06d081f78b2836f1a7499773342e94f2b642da61cd2104869cd432bb2d110fea",
+   "chars": 3884
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/apartamento-diana/",
+   "sha256": "7fe679bce9d3353049d525f3ae35bd26ef4b4f8158a83f2e8f89938ed87e1002",
+   "chars": 3757
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/apartamento-felicitas/",
+   "sha256": "7b37b8917cf06ea6aa9c8eb3f9ac307d4cf743a14c08357d472997e0a023265f",
+   "chars": 3816
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/apartamento-juno/",
+   "sha256": "e17b4c4fd425443900c0a129625adc12ff078573293c1383f6d79012b6abcd09",
+   "chars": 3754
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/bebuilder-174/",
+   "sha256": "4197d52ac070df2ad71392ef6e8076326f48acaf02bc85a1dcfc9b5b1c30a3d3",
+   "chars": 9282
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/bebuilder-91/",
+   "sha256": "74f321ff9eb1960db74bf4810db59d270b335fb0a21b69c85a04ddd07e24938e",
+   "chars": 3751
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/contacto/",
+   "sha256": "c11d85b8ef1d8d9c36fe87abde5a8a75f9cbf2283c4f011414c8994db6ee4bb3",
+   "chars": 1413
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+   "sha256": "a902bda012cf56de6ec8e50d17bf5df640b9c5ec89a18d32fcc5cf96e91e23b3",
+   "chars": 3420
+  },
+  {
+   "url": "https://www.lupercasapartamentosturisticos.es/sobre-nosotros/",
+   "sha256": "74a389af9e668e1749bc8a0e64c0b2801a14155a82146195d2dea2153e4ded7f",
+   "chars": 7008
+  }
+ ],
+ "other_pages_read": [
+  "https://www.lupercasapartamentosturisticos.es",
+  "https://www.lupercasapartamentosturisticos.es/informacion-general-de-las-cookies/",
+  "https://www.lupercasapartamentosturisticos.es/lupercas-apartamentos-turisticos-merid/",
+  "https://www.lupercasapartamentosturisticos.es/politica-de-privacidad-3/"
+ ]
+}
