@@ -1,0 +1,535 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-lupercas-apartamentos-merida",
+ "source_site": "https://www.lupercasapartamentosturisticos.es/",
+ "source_read_at": "2026-11-02T07:12:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "apartamentos",
+   "keys": {
+    "es": [
+     "que apartamentos",
+     "cuantos apartamentos",
+     "habitacion"
+    ],
+    "en": [
+     "apartments",
+     "rooms"
+    ],
+    "fr": [
+     "appartements",
+     "chambres"
+    ],
+    "de": [
+     "apartments",
+     "zimmer",
+     "wohnungen"
+    ]
+   },
+   "a": {
+    "es": "El edificio tiene 7 apartamentos, cada uno con nombre de diosa: entre ellos Anna, Minerva, Diana, Felicitas, Juno y Venus. Todos son diáfanos, con salón-cocina, ropa de cama, toallas, TV y baño privado con ducha.",
+    "en": "The building has 7 apartments, each named after a goddess: among them Anna, Minerva, Diana, Felicitas, Juno and Venus. All are open-plan, with living room and kitchen, bed linen, towels, TV and private bathroom with shower.",
+    "fr": "L’immeuble compte 7 appartements, chacun portant le nom d’une déesse : parmi eux Anna, Minerva, Diana, Felicitas, Juno et Venus. Tous sont ouverts, avec salon-cuisine, linge de lit, serviettes, TV et salle de bains privée avec douche.",
+    "de": "Das Haus hat 7 Apartments, jedes nach einer Göttin benannt: darunter Anna, Minerva, Diana, Felicitas, Juno und Venus. Alle sind offen gestaltet, mit Wohnküche, Bettwäsche, Handtüchern, TV und eigenem Bad mit Dusche."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/sobre-nosotros/",
+     "quote": "El edificio consta de 7 apartamentos"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "Apartamento Anna"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "Apartamento Minerva"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "Apartamento Diana"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "Apartamento Felicitas"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "Apartamento Juno"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "Apartamento Venus"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "ropa de cama, toallas, cuarto de baño privado con ducha, secador de pelo, salón-cocina, tv"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "capacidad",
+   "keys": {
+    "es": [
+     "cuantas personas",
+     "capacidad",
+     "familia"
+    ],
+    "en": [
+     "how many people",
+     "capacity",
+     "family"
+    ],
+    "fr": [
+     "combien de personnes",
+     "capacite",
+     "famille"
+    ],
+    "de": [
+     "wie viele personen",
+     "kapazitat",
+     "familie"
+    ]
+   },
+   "a": {
+    "es": "Minerva y Diana son para una o dos personas. Anna, Felicitas y Juno, para dos a cuatro personas.",
+    "en": "Minerva and Diana sleep one or two people. Anna, Felicitas and Juno, two to four people.",
+    "fr": "Minerva et Diana accueillent une ou deux personnes. Anna, Felicitas et Juno, de deux à quatre personnes.",
+    "de": "Minerva und Diana sind für eine oder zwei Personen. Anna, Felicitas und Juno für zwei bis vier Personen."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/bebuilder-91/",
+     "quote": "capacidad mínima una persona, máxima dos"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/apartamento-diana/",
+     "quote": "capacidad mínima una persona, máxima dos"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/apartamento-anna/",
+     "quote": "capacidad mínima dos personas, máxima cuatro"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/apartamento-felicitas/",
+     "quote": "capacidad mínima dos personas, máxima cuatro"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/apartamento-juno/",
+     "quote": "capacidad mínima dos personas, máxima cuatro"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "cocina",
+   "keys": {
+    "es": [
+     "cocina",
+     "cafetera",
+     "nespresso",
+     "microondas"
+    ],
+    "en": [
+     "kitchen",
+     "coffee",
+     "nespresso",
+     "microwave"
+    ],
+    "fr": [
+     "cuisine",
+     "cafe",
+     "nespresso",
+     "micro-ondes"
+    ],
+    "de": [
+     "kuche",
+     "kaffee",
+     "nespresso",
+     "mikrowelle"
+    ]
+   },
+   "a": {
+    "es": "Sí. Cada apartamento tiene salón-cocina con microondas, tostadora y vajilla, y cafetera Nespresso. Además hay una cocina común grande y bien equipada.",
+    "en": "Yes. Each apartment has a living room with kitchen, microwave, toaster and crockery, plus a Nespresso machine. There is also a large, well-equipped shared kitchen.",
+    "fr": "Oui. Chaque appartement a un salon-cuisine avec micro-ondes, grille-pain et vaisselle, et une machine Nespresso. Il y a aussi une grande cuisine commune bien équipée.",
+    "de": "Ja. Jedes Apartment hat eine Wohnküche mit Mikrowelle, Toaster und Geschirr sowie eine Nespresso-Maschine. Außerdem gibt es eine große, gut ausgestattete Gemeinschaftsküche."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "salón-cocina, tv, sofá, mesa de comedor, sillas, microondas, tostadora y vajilla"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "cafetera Nespresso"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/sobre-nosotros/",
+     "quote": "contamos con una cocina grande y bien equipada"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "accesibilidad",
+   "keys": {
+    "es": [
+     "accesib",
+     "silla de ruedas",
+     "movilidad"
+    ],
+    "en": [
+     "accessib",
+     "wheelchair"
+    ],
+    "fr": [
+     "accessib",
+     "fauteuil roulant",
+     "mobilite"
+    ],
+    "de": [
+     "barrierefrei",
+     "rollstuhl"
+    ]
+   },
+   "a": {
+    "es": "El apartamento Anna está en planta baja y es accesible. Para detalles concretos de accesibilidad, consúltalo al reservar.",
+    "en": "The Anna apartment is on the ground floor and is accessible. For specific accessibility details, please ask when booking.",
+    "fr": "L’appartement Anna est au rez-de-chaussée et il est accessible. Pour les détails d’accessibilité, renseignez-vous lors de la réservation.",
+    "de": "Das Apartment Anna liegt im Erdgeschoss und ist barrierefrei. Für genaue Details zur Barrierefreiheit fragen Sie bitte bei der Buchung."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "Apartamento Anna Planta baja (accesible)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "patio-balcon",
+   "keys": {
+    "es": [
+     "patio",
+     "balcon",
+     "terraza"
+    ],
+    "en": [
+     "patio",
+     "balcony",
+     "terrace"
+    ],
+    "fr": [
+     "patio",
+     "balcon",
+     "terrasse"
+    ],
+    "de": [
+     "innenhof",
+     "balkon",
+     "terrasse"
+    ]
+   },
+   "a": {
+    "es": "Los apartamentos tienen balcón o ventanas al exterior. Anna tiene además un patio interior con mesa baja y sillones, de uso exclusivo del apartamento.",
+    "en": "The apartments have a balcony or windows to the outside. Anna also has an inner patio with a low table and armchairs, for the apartment’s exclusive use.",
+    "fr": "Les appartements ont un balcon ou des fenêtres sur l’extérieur. Anna a en plus un patio intérieur avec table basse et fauteuils, à usage exclusif de l’appartement.",
+    "de": "Die Apartments haben Balkon oder Fenster nach außen. Anna hat zusätzlich einen Innenhof mit niedrigem Tisch und Sesseln, nur für dieses Apartment."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/sobre-nosotros/",
+     "quote": "Los apartamentos cuentan con balcón o ventanas al exterior y baño privado"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "patio interior con mesa baja, sillones, para uso exclusivo del apartamento"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde esta",
+     "donde estais",
+     "direccion",
+     "ubicacion",
+     "como llegar"
+    ],
+    "en": [
+     "where are",
+     "where is",
+     "address",
+     "location"
+    ],
+    "fr": [
+     "ou etes",
+     "ou se trouv",
+     "adresse",
+     "emplacement"
+    ],
+    "de": [
+     "wo liegt",
+     "wo sind",
+     "adresse",
+     "lage"
+    ]
+   },
+   "a": {
+    "es": "Estamos en la Rambla Mártir Santa Eulalia, 53, 06800 Mérida (Badajoz), en pleno corazón de la ciudad.",
+    "en": "We are at Rambla Mártir Santa Eulalia, 53, 06800 Mérida (Badajoz), right in the heart of the city.",
+    "fr": "Nous sommes Rambla Mártir Santa Eulalia, 53, 06800 Mérida (Badajoz), en plein cœur de la ville.",
+    "de": "Wir sind in der Rambla Mártir Santa Eulalia, 53, 06800 Mérida (Badajoz), mitten im Herzen der Stadt."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/bebuilder-174/",
+     "quote": "RAMBLA MARTIR SANTA EULALIA 53 - (06800) MERIDA"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/contacto/",
+     "quote": "Rambla Mártir Sta. Eulalia, 06800 Mérida, Badajoz"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/",
+     "quote": "en pleno corazón de la ciudad de Mérida"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar escribiendo a info@lupercasapartamentosturisticos.es (botón Reservar) o llamando al +34 681 19 35 87 o al +34 689 71 30 34. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book by emailing info@lupercasapartamentosturisticos.es (Book button) or calling +34 681 19 35 87 or +34 689 71 30 34. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver en écrivant à info@lupercasapartamentosturisticos.es (bouton Réserver) ou en appelant le +34 681 19 35 87 ou le +34 689 71 30 34. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können per E-Mail an info@lupercasapartamentosturisticos.es buchen (Schaltfläche Buchen) oder unter +34 681 19 35 87 bzw. +34 689 71 30 34 anrufen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/contacto/",
+     "quote": "info@lupercasapartamentosturisticos.es"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/",
+     "quote": "+34 681 19 35 87"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/",
+     "quote": "+34 689 71 30 34"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K08",
+   "topic": "que-ver",
+   "keys": {
+    "es": [
+     "festival",
+     "que ver",
+     "evento",
+     "visitar"
+    ],
+    "en": [
+     "festival",
+     "what to see",
+     "events",
+     "visit"
+    ],
+    "fr": [
+     "festival",
+     "que voir",
+     "evenement",
+     "visiter"
+    ],
+    "de": [
+     "festival",
+     "sehenswert",
+     "veranstaltung",
+     "besuchen"
+    ]
+   },
+   "a": {
+    "es": "En Mérida destacan el Festival de Teatro Clásico (julio y agosto), la Semana Santa, el Festival de Música (septiembre) y Emérita Lúdica. Al alojarte tendrás más información en el apartamento.",
+    "en": "Highlights in Mérida are the Classical Theatre Festival (July and August), Holy Week, the Music Festival (September) and Emérita Lúdica. You will find more information in the apartment during your stay.",
+    "fr": "À Mérida, ne manquez pas le Festival de théâtre classique (juillet et août), la Semaine sainte, le Festival de musique (septembre) et Emérita Lúdica. Vous trouverez plus d’informations dans l’appartement.",
+    "de": "In Mérida lohnen sich das Festival des klassischen Theaters (Juli und August), die Karwoche, das Musikfestival (September) und Emérita Lúdica. Weitere Informationen finden Sie im Apartment."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/",
+     "quote": "El Festival de Teatro Clásico (julio y agosto), Semana Santa, Festival de Música (septiembre) y Emérita Lúdica"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/",
+     "quote": "tendrás más información en tu habitación al hospedarte"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "contact"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "courriel",
+     "email",
+     "contact"
+    ],
+    "de": [
+     "telefon",
+     "anrufen",
+     "mail",
+     "kontakt"
+    ]
+   },
+   "a": {
+    "es": "Teléfonos: +34 681 19 35 87 y +34 689 71 30 34. Correo: info@lupercasapartamentosturisticos.es.",
+    "en": "Phones: +34 681 19 35 87 and +34 689 71 30 34. Email: info@lupercasapartamentosturisticos.es.",
+    "fr": "Téléphones : +34 681 19 35 87 et +34 689 71 30 34. E-mail : info@lupercasapartamentosturisticos.es.",
+    "de": "Telefon: +34 681 19 35 87 und +34 689 71 30 34. E-Mail: info@lupercasapartamentosturisticos.es."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/",
+     "quote": "+34 681 19 35 87"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/",
+     "quote": "+34 689 71 30 34"
+    },
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/contacto/",
+     "quote": "E-mail info@lupercasapartamentosturisticos.es"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "climatizacion",
+   "keys": {
+    "es": [
+     "aire acondicionado",
+     "climatiz",
+     "refrigeracion",
+     "sostenib",
+     "placas solares"
+    ],
+    "en": [
+     "air condition",
+     "cooling",
+     "sustainab",
+     "solar"
+    ],
+    "fr": [
+     "climatis",
+     "durable",
+     "solaire"
+    ],
+    "de": [
+     "klima",
+     "nachhaltig",
+     "solar"
+    ]
+   },
+   "a": {
+    "es": "Los apartamentos tienen refrigeración y agua caliente por sistema de aerotermia y placas solares.",
+    "en": "The apartments have cooling and hot water through an aerothermal system and solar panels.",
+    "fr": "Les appartements ont la climatisation et l’eau chaude par aérothermie et panneaux solaires.",
+    "de": "Die Apartments haben Kühlung und Warmwasser über Aerothermie und Solarmodule."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/apartamento-anna/",
+     "quote": "refrigeración, a.c.s, por sistema aerotermia y placas solares"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "fumar",
+   "keys": {
+    "es": [
+     "fumar"
+    ],
+    "en": [
+     "smok"
+    ],
+    "fr": [
+     "fumer",
+     "fumeur"
+    ],
+    "de": [
+     "rauch"
+    ]
+   },
+   "a": {
+    "es": "En el patio del apartamento Anna está prohibido fumar. Para el resto, consúltalo al reservar.",
+    "en": "Smoking is not allowed in the patio of the Anna apartment. For anything else, please ask when booking.",
+    "fr": "Il est interdit de fumer dans le patio de l’appartement Anna. Pour le reste, renseignez-vous lors de la réservation.",
+    "de": "Im Innenhof des Apartments Anna ist Rauchen verboten. Für alles Weitere fragen Sie bitte bei der Buchung."
+   },
+   "sources": [
+    {
+     "url": "https://www.lupercasapartamentosturisticos.es/nuestros-apartamentos/",
+     "quote": "para uso exclusivo del apartamento (prohibido fumar)"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
