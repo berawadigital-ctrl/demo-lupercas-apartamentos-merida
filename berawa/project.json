@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-lupercas-apartamentos-merida",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T07:11:00+01:00",
+ "updated_at": "2026-11-02T07:25:00+01:00",
+ "business": {
+  "name": "Lupercas Apartamentos Turísticos",
+  "legal_name": "MSRUIZ 2021 SL, CIF B67628388 (aviso legal de su web)",
+  "registry_ids": [
+   "B67628388"
+  ],
+  "url": "https://www.lupercasapartamentosturisticos.es/",
+  "domain": "lupercasapartamentosturisticos.es",
+  "municipality": "Mérida",
+  "province": "Badajoz",
+  "address": "Rambla Mártir Santa Eulalia, 53 · 06800 Mérida (Badajoz)",
+  "phones": [
+   "+34 681 19 35 87",
+   "+34 689 71 30 34"
+  ],
+  "emails": [
+   "info@lupercasapartamentosturisticos.es"
+  ],
+  "sector": "apartamentos turisticos en el centro de Merida"
+ },
+ "rating": {
+  "value": 4.9,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/place/Lupercas+Apartamentos+Tur%C3%ADsticos/@38.9200288,-6.3419107,17z",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "url": "mailto:info@lupercasapartamentosturisticos.es",
+  "note": "sin motor de reservas verificable: el menu «Reservas» de su web lleva a una pagina vacia (/lupercas-apartamentos-turisticos-merid/) y su pagina de contacto da telefonos y correo. Los botones Reservar abren un correo a info@lupercasapartamentosturisticos.es (correo de su pagina de contacto) y los telefonos reales 681 19 35 87 y 689 71 30 34 van en tel:."
+ },
+ "audit_original": {
+  "url": "https://www.lupercasapartamentosturisticos.es/",
+  "date": "2026-11-02T07:11:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
