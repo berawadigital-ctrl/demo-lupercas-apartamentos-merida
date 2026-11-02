@@ -1,0 +1,396 @@
+{
+ "url": "file:///tmp/zip-lupercas-apartamentos-merida/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "El edificio tiene 7 apartamentos, cada uno con nombre de diosa: entre ellos Anna, Minerva, Diana, Felicitas, Juno y Venus. Todos son diáfano"
+    },
+    {
+     "q": "¿Para cuántas personas son?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Minerva y Diana son para una o dos personas. Anna, Felicitas y Juno, para dos a cuatro personas."
+    },
+    {
+     "q": "¿Hay cocina?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí. Cada apartamento tiene salón-cocina con microondas, tostadora y vajilla, y cafetera Nespresso. Además hay una cocina común grande y bien"
+    },
+    {
+     "q": "¿Es accesible?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El apartamento Anna está en planta baja y es accesible. Para detalles concretos de accesibilidad, consúltalo al reservar."
+    },
+    {
+     "q": "¿Tienen patio o balcón?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Los apartamentos tienen balcón o ventanas al exterior. Anna tiene además un patio interior con mesa baja y sillones, de uso exclusivo del ap"
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Estamos en la Rambla Mártir Santa Eulalia, 53, 06800 Mérida (Badajoz), en pleno corazón de la ciudad."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar escribiendo a info@lupercasapartamentosturisticos.es (botón Reservar) o llamando al +34 681 19 35 87 o al +34 689 71 30 34. "
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes reservar escribiendo a info@lupercasapartamentosturisticos.es (botón Reservar) o llamando al +34 681 19 35 87 o al +34 689 71 30 34. "
+    },
+    {
+     "q": "¿Qué festivales hay en Mérida?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "En Mérida destacan el Festival de Teatro Clásico (julio y agosto), la Semana Santa, el Festival de Música (septiembre) y Emérita Lúdica. Al "
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Teléfonos: +34 681 19 35 87 y +34 689 71 30 34. Correo: info@lupercasapartamentosturisticos.es."
+    },
+    {
+     "q": "¿Tienen aire acondicionado?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Los apartamentos tienen refrigeración y agua caliente por sistema de aerotermia y placas solares."
+    },
+    {
+     "q": "¿Se puede fumar?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "En el patio del apartamento Anna está prohibido fumar. Para el resto, consúltalo al reservar."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 681 19 35 87 · +34 689 71 30 34 · info@lupercasapartamentosturisticos.es."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 681 19 35 87 · +34 689 71 30 34 · info@lupercasapartamentosturisticos.es."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿Hay cocina?",
+    "¿Es accesible?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "The building has 7 apartments, each named after a goddess: among them Anna, Minerva, Diana, Felicitas, Juno and Venus. All are open-plan, wi"
+    },
+    {
+     "q": "How many people can stay?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Minerva and Diana sleep one or two people. Anna, Felicitas and Juno, two to four people."
+    },
+    {
+     "q": "Is there a kitchen?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes. Each apartment has a living room with kitchen, microwave, toaster and crockery, plus a Nespresso machine. There is also a large, well-e"
+    },
+    {
+     "q": "Is it accessible?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "The Anna apartment is on the ground floor and is accessible. For specific accessibility details, please ask when booking."
+    },
+    {
+     "q": "Do they have a patio or balcony?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The apartments have a balcony or windows to the outside. Anna also has an inner patio with a low table and armchairs, for the apartment’s ex"
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "We are at Rambla Mártir Santa Eulalia, 53, 06800 Mérida (Badajoz), right in the heart of the city."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book by emailing info@lupercasapartamentosturisticos.es (Book button) or calling +34 681 19 35 87 or +34 689 71 30 34. This assistan"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can book by emailing info@lupercasapartamentosturisticos.es (Book button) or calling +34 681 19 35 87 or +34 689 71 30 34. This assistan"
+    },
+    {
+     "q": "Which festivals are there in Mérida?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Highlights in Mérida are the Classical Theatre Festival (July and August), Holy Week, the Music Festival (September) and Emérita Lúdica. You"
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Phones: +34 681 19 35 87 and +34 689 71 30 34. Email: info@lupercasapartamentosturisticos.es."
+    },
+    {
+     "q": "Is there air conditioning?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "The apartments have cooling and hot water through an aerothermal system and solar panels."
+    },
+    {
+     "q": "Can I smoke?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Smoking is not allowed in the patio of the Anna apartment. For anything else, please ask when booking."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 681 19 35 87 · +34 689 71 30 34 · info@lupercasapartamentosturisticos.es."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 681 19 35 87 · +34 689 71 30 34 · info@lupercasapartamentosturisticos.es."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "Is there a kitchen?",
+    "Is it accessible?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "L’immeuble compte 7 appartements, chacun portant le nom d’une déesse : parmi eux Anna, Minerva, Diana, Felicitas, Juno et Venus. Tous sont o"
+    },
+    {
+     "q": "Pour combien de personnes ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Minerva et Diana accueillent une ou deux personnes. Anna, Felicitas et Juno, de deux à quatre personnes."
+    },
+    {
+     "q": "Y a-t-il une cuisine ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui. Chaque appartement a un salon-cuisine avec micro-ondes, grille-pain et vaisselle, et une machine Nespresso. Il y a aussi une grande cui"
+    },
+    {
+     "q": "Est-ce accessible ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L’appartement Anna est au rez-de-chaussée et il est accessible. Pour les détails d’accessibilité, renseignez-vous lors de la réservation."
+    },
+    {
+     "q": "Y a-t-il un patio ou un balcon ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Les appartements ont un balcon ou des fenêtres sur l’extérieur. Anna a en plus un patio intérieur avec table basse et fauteuils, à usage exc"
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Nous sommes Rambla Mártir Santa Eulalia, 53, 06800 Mérida (Badajoz), en plein cœur de la ville."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver en écrivant à info@lupercasapartamentosturisticos.es (bouton Réserver) ou en appelant le +34 681 19 35 87 ou le +34 689"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver en écrivant à info@lupercasapartamentosturisticos.es (bouton Réserver) ou en appelant le +34 681 19 35 87 ou le +34 689"
+    },
+    {
+     "q": "Quels festivals y a-t-il à Mérida ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "À Mérida, ne manquez pas le Festival de théâtre classique (juillet et août), la Semaine sainte, le Festival de musique (septembre) et Emérit"
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Téléphones : +34 681 19 35 87 et +34 689 71 30 34. E-mail : info@lupercasapartamentosturisticos.es."
+    },
+    {
+     "q": "Y a-t-il la climatisation ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Les appartements ont la climatisation et l’eau chaude par aérothermie et panneaux solaires."
+    },
+    {
+     "q": "Peut-on fumer ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Il est interdit de fumer dans le patio de l’appartement Anna. Pour le reste, renseignez-vous lors de la réservation."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 681 19 35 87 · +34 689 71 30 34 · info@lupercasapartamentosturisticos.es."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 681 19 35 87 · +34 689 71 30 34 · info@lupercasapartamentosturisticos.es."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "Y a-t-il une cuisine ?",
+    "Est-ce accessible ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Das Haus hat 7 Apartments, jedes nach einer Göttin benannt: darunter Anna, Minerva, Diana, Felicitas, Juno und Venus. Alle sind offen gestal"
+    },
+    {
+     "q": "Für wie viele Personen?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Minerva und Diana sind für eine oder zwei Personen. Anna, Felicitas und Juno für zwei bis vier Personen."
+    },
+    {
+     "q": "Gibt es eine Küche?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja. Jedes Apartment hat eine Wohnküche mit Mikrowelle, Toaster und Geschirr sowie eine Nespresso-Maschine. Außerdem gibt es eine große, gut "
+    },
+    {
+     "q": "Ist es barrierefrei?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Das Apartment Anna liegt im Erdgeschoss und ist barrierefrei. Für genaue Details zur Barrierefreiheit fragen Sie bitte bei der Buchung."
+    },
+    {
+     "q": "Gibt es einen Innenhof oder Balkon?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Die Apartments haben Balkon oder Fenster nach außen. Anna hat zusätzlich einen Innenhof mit niedrigem Tisch und Sesseln, nur für dieses Apar"
+    },
+    {
+     "q": "Wo liegt das Haus?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Wir sind in der Rambla Mártir Santa Eulalia, 53, 06800 Mérida (Badajoz), mitten im Herzen der Stadt."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können per E-Mail an info@lupercasapartamentosturisticos.es buchen (Schaltfläche Buchen) oder unter +34 681 19 35 87 bzw. +34 689 71 30 "
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können per E-Mail an info@lupercasapartamentosturisticos.es buchen (Schaltfläche Buchen) oder unter +34 681 19 35 87 bzw. +34 689 71 30 "
+    },
+    {
+     "q": "Welche Festivals gibt es in Mérida?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "In Mérida lohnen sich das Festival des klassischen Theaters (Juli und August), die Karwoche, das Musikfestival (September) und Emérita Lúdic"
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Telefon: +34 681 19 35 87 und +34 689 71 30 34. E-Mail: info@lupercasapartamentosturisticos.es."
+    },
+    {
+     "q": "Gibt es eine Klimaanlage?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Die Apartments haben Kühlung und Warmwasser über Aerothermie und Solarmodule."
+    },
+    {
+     "q": "Darf man rauchen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Im Innenhof des Apartments Anna ist Rauchen verboten. Für alles Weitere fragen Sie bitte bei der Buchung."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 681 19 35 87 · +34 689 71 30 34 · info@lupercasapartamentosturis"
+    },
+    {
+     "q": "Gibt es Parkplätze?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 681 19 35 87 · +34 689 71 30 34 · info@lupercasapartamentosturis"
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Gibt es eine Küche?",
+    "Ist es barrierefrei?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
